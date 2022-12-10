@@ -2,3 +2,6 @@ __pycache__
 env
 app
 logs
+cert.pem
+key.pem
+.env
